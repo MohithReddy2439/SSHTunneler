@@ -5,7 +5,7 @@ This is a  Linux Applications which tunnels your pc network traffic through SSH 
 
 Usage--> 
 
-1)Make  sure httptunneler tunneler.sh httpstunneler tunneler install uninstall has executable permissions
+1)Make  sure install uninstall has executable permissions chmod 755 install uninstall
 
 2)Install SSHTunneler as sudo ./install  (Follow the steps)
 
