@@ -20,7 +20,7 @@ note those port1 and port2 values
 
 5) Log into ssh server and for first time unpack remote.zip as unzip remote.zip
 
-6) And Execute Following commands ./httpaccept your local machine ip port1 &  ./httpsaccept your local machine ip port2 & 
+6) And Execute Following commands ./httpaccept (your local machine ip) ( port1) &  ./httpsaccept (your local machine ip) ( port2) & 
 
 7) Local machine Ip is your pc ip which can be found using ifconfig  , and port1 and port2 values are those which are described in 4)
 
