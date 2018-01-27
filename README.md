@@ -12,15 +12,15 @@ Usage-->
 3)Start Tunneler as "tunneler start" and stop tunneler as "tunneler stop"
 
 4)After starting tunneler you see two messages printed on Screen which will be as follow
-"Remote HTTP SOCK SERVER Running on port <port1> "
+"Remote HTTP SOCK SERVER Running on port port1 "
 
-"Remote HTTPS SOCK SERVER Running on port <port2> "
+"Remote HTTPS SOCK SERVER Running on port port2 "
 
 note those port1 and port2 values 
 
 5) Log into ssh server and for first time unpack remote.zip as unzip remote.zip
 
-6) And Execute Following commands ./httpaccept <your local machine ip> <port1> &  ./httpsaccept <your local machine ip> <port2> & 
+6) And Execute Following commands ./httpaccept your local machine ip port1 &  ./httpsaccept your local machine ip port2 & 
 
 7) Local machine Ip is your pc ip which can be found using ifconfig  , and port1 and port2 values are those which are described in 4)
 
